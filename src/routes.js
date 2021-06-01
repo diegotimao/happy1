@@ -12,7 +12,7 @@ routes.get('/', async (req, res) => {
       whatsapp: '75988971606',
       estado: 'Ba',
       cidade: 'Paulo Afonso',
-      email: 'diegotimao1104@gmail.com',
+      email: 'diegotimao11046@gmail.com',
       password_hash: '123',
    });
 
